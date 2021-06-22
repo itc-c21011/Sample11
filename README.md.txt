@@ -4,7 +4,7 @@ https://github.com/m-oota/Sample.git
 
 ## ローカルリポジトリ
 ＊　お好み焼きレシピ
-[okonomi.txt](https://github.com/itc-c21011/Sample11)
+[okonomi.txt](https://github.com/itc-c21011/Sample11/blob/master/okonomi.txt)
 
 ## リモートリポジトリ
 * [README.Md]()を作ってみる
